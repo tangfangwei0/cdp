@@ -1,0 +1,12 @@
+components.codis.zookeeper=10.8.7.200:2181
+components.codis.subSysName=/zk/codis/db_ydp-codis/proxy
+components.codis.authpassword=
+components.codis.salt=tangfw
+components.codis.timeout=2000
+components.codis.zkSessionTimeout=30000
+components.codis.minIdle=20
+components.codis.maxIdle=50
+components.codis.maxTotal=1000
+components.codis.maxWaitMillis=2000
+components.codis.testOnBorrow=true
+components.codis.testWhileIdle=true
